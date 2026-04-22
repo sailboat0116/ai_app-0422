@@ -50,13 +50,21 @@
 | 添香油錢功能   | 模擬發心捐款並紀錄虛擬金額與願望 | O |
 | 前端 UI 介面   | 使用符合傳統信仰氛圍的東方暗黑 Glassmorphism 風格設計 | O |
 
-### 4. 系統截圖（`screenshots/`）
+### 4. 系統截圖
 
-在 `screenshots/` 資料夾放入以下截圖（建議自行手動截圖後放入）：
+下方為宮廟抽籤系統的實際運行截圖：
 
-- `home.png`：首頁登入/註冊畫面
-- `draw.png`：實際求籤與解析畫面
-- `history.png`：歷史紀錄頁面
+- **登入與註冊介面 (Login)**
+  <br>![Login](screenshots/login.png)
+
+- **求神問卜畫面 (Draw)**
+  <br>![Draw](screenshots/draw.png)
+
+- **香油錢捐獻 (Money)**
+  <br>![Money](screenshots/money.png)
+
+- **參拜歷史紀錄 (History)**
+  <br>![History](screenshots/history.png)
 
 ### 5. 心得報告（本 README.md 下方）
 
