@@ -1,7 +1,7 @@
 ---
 name: prd
-description: 產生產品需求文件 (PRD)
---- 
+description: "產生產品需求文件 (PRD)"
+---
 
 
 # 產生產品需求文件 (PRD)
